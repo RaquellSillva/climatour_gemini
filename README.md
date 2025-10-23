@@ -1,5 +1,7 @@
 # 🌤️ ClimaTour — Agente de Viagem Inteligente
 
+Este projeto foi desenvolvido como parte do **Caso 2: Agente de IA - Assistente de Viagem Inteligente**
+
 O **ClimaTour** é um agente de IA que recomenda **passeios turísticos personalizados** com base no **estado** informado pelo usuário e nas **condições climáticas atuais** da capital daquele estado.
 
 > Desenvolvido por **Raquel Joana da Silva** como protótipo de um agente inteligente, utilizando o **Gemini (Google)** e o framework **LangChain**.
