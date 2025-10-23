@@ -86,7 +86,7 @@ e responderá com a previsão e uma sugestão de passeio.
 
 ###  Demonstração
 
-![Execução do ClimaTour](docs/demo_terminal.png)
+![Execução do ClimaTour](climatour_gemini/docs/demo_terminal.png)
 
 
 ###  Autora
