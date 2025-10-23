@@ -21,5 +21,5 @@ O **ClimaTour** é um agente de IA que recomenda **passeios turísticos personal
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seuusuario/ClimaTour_Gemini.git
+git clone https://github.com/RaquellSillva/climatour_gemini
 cd ClimaTour_Gemini
