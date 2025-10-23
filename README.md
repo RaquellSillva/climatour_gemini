@@ -93,7 +93,7 @@ e responderá com a previsão e uma sugestão de passeio.
 
 **Raquel Joana da Silva**  
 Estudante de Ciências da Computação — UNINOVE  
-Foco em **Segurança da Informação** e **Inteligência Artificial**  
+Foco em **Inteligência Artificial**  
 🔗 [LinkedIn](www.linkedin.com/in/raquel-joana-da-silva-75406bb0)
 
 ---
