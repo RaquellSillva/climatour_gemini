@@ -44,12 +44,14 @@ Este projeto segue princípios fundamentais da **Segurança da Informação** ap
 | APIs | WeatherAPI / OpenWeatherMap |
 | Organização | Git / GitHub |
 | Segurança | Arquivo `.env` e variáveis de ambiente |
-## ⚙️ Instalação e configuração
+
+### ⚙️ Instalação e configuração
 
 ### 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/RaquellSillva/climatour_gemini
 cd ClimaTour_Gemini
+```
 
 ### 2️⃣ Criar e ativar o ambiente virtual
 ```bash
@@ -57,10 +59,12 @@ python -m venv .venv
 source .venv/bin/activate    # Linux/macOS
 # ou
 .\.venv\Scripts\activate     # Windows
+```
 
 ### 3️⃣ Instalar dependências
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4️⃣ Criar o arquivo `.env`
 Use o modelo `.env.example` e adicione suas chaves:
@@ -69,22 +73,23 @@ GOOGLE_API_KEY=sua_chave_gemini
 OPENWEATHER_API_KEY=sua_chave_openweather
 WEATHERAPI_KEY=sua_chave_weatherapi
 GEMINI_MODEL=models/gemini-2.0-flash
+```
 
-
-## ▶️ Execução
+###  Execução
 
 ```bash
 python climatour_agent_gemini.py
+```
 
-🧭 O agente perguntará seu estado (ex: SP)
+O agente perguntará seu estado (ex: SP)
 e responderá com a previsão e uma sugestão de passeio.
 
-## 🖥️ Demonstração
+###  Demonstração
 
 ![Execução do ClimaTour](docs/demo_terminal.png)
 
 
-## 👩‍💻 Autora
+###  Autora
 
 **Raquel Joana da Silva**  
 Estudante de Ciências da Computação — UNINOVE  
